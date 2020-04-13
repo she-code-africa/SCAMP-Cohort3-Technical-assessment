@@ -29,11 +29,11 @@ docker-compose down
 
 - Create a repository on Github called ``SCAMP Assesment``
 
-- Create/Build a Command-line interface (CLI) that will install the following softwares: wget, curl, Node.js
+- Create/Build a Command-line interface (CLI) application which will install the following softwares: wget, curl, Node.js
 
 Requirements:
 
-- The script should be able to check the operating system of the user and install them using the appropriate command
+- The script should be able to check the operating system of the user and install them using the appropriate command(s)
 
 - The script should be able to check if any of the software has been installed, if it hasn't, then it should install it.
 
