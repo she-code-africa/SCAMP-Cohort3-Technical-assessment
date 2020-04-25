@@ -2,7 +2,7 @@
 
 - Create a repository on Github called ``SCAMP Assesment``
 
-- Using Flutter, create a mobile dashboard for corona virus, using this API [Here](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest).
+- Using Flutter, create a mobile dashboard for corona virus, using this API [Here](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)
 
 ## Aesthetic Requirements
 How the information is displayed, is up to you. We would love to see your creativity as well as aesthetic design.
