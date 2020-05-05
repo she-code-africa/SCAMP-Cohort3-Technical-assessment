@@ -2,7 +2,7 @@
 
 - Create a repository on Github called ``SCAMP Assesment``
 
-- Given the datasets and details at https://www.kaggle.com/c/titanic , predict with an ``accuracy of at least 80%``, the survival of passengers on the tianic
+- Given the datasets and details at https://www.kaggle.com/c/titanic , predict with an ``accuracy of at least 80%``, the survival of passengers on the titanic
   
 ## Functional requirements
 
