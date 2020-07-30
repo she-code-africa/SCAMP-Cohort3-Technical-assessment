@@ -13,6 +13,7 @@
 ## Submission
 - Push your project to the github repo created above.
 
-- submit your project github URL on the application form here: https://bit.ly/SCAMenteeC2
+- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C3
+
 
 *Good luck!*
