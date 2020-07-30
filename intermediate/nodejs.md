@@ -27,7 +27,7 @@ The essense of this challenge is to understand the approach you take to:
 - Push your project to the github repo created
 - Include your setup instructions on your README doc
 - Documentation URL (optional)
-- submit your project github URL on the application form here: https://bit.ly/SCAMenteeC2
+- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C3
 
 
 
