@@ -16,7 +16,7 @@ How the information is displayed, is up to you. We would love to see your creati
 ## Submission
 - Push your project to your github repo created
 - Include a gif/short video to your application on your github readme file.
-- submit your project github URL on the application form here: https://bit.ly/SCAMenteeC2
+- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C3
 
 
 *Good luck!*
