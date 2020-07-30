@@ -6,5 +6,4 @@
 
 - submit the URL on the application form here: https://bit.ly/SCA-mentee-C3
 
-
 *Good luck!*
