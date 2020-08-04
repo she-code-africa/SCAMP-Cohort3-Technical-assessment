@@ -1,6 +1,6 @@
 # UI/UX Design Assessment  
 
-- Using any tool of your choice, re-create the landing page for https://www.shecodeafrica.org/.
+- Using any tool of your choice, re-create the landing page for https://www.airbnb.com/
 
 ## Submission
 - Upload to your design portfolio or page 
