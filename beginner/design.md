@@ -1,5 +1,5 @@
 # UI/UX Design Assessment  
-- Using any design tool of your choice, create a landing page for https://twitter.com/ sign up page
+- Using any design tool of your choice, create the https://twitter.com/ sign up page
 
 ## Submission
 - Upload to your design portfolio or page 
